@@ -21,6 +21,8 @@ Config.Jobs = {
 		count = 0, -- Dont Edit
 		maxdisplay = 3, -- When there will be more users with this job it will show for example "3+". // Set to 0 if u want to show the whole number.
 		synSociety = false, -- Checks if players are on duty when u are using Syn Society Script.
+		rsgDuty = false, -- Checks if players are on duty when u are using RSG Framework without Syn Society.
+		qbrDuty = false, -- Checks if players are on duty when u are using QBRCore Framework without Syn Society.
 	},
 	{
 		jobid = "2", -- MUST BE IN ORDER FROM 1 TO X
@@ -29,6 +31,8 @@ Config.Jobs = {
 		count = 0, -- Dont Edit
 		maxdisplay = 0, -- When there will be more users with this job it will show for example "3+". // Set to 0 if u want to show the whole number.
 		synSociety = false, -- Checks if players are on duty when u are using Syn Society Script.
+		rsgDuty = false, -- Checks if players are on duty when u are using RSG Framework without Syn Society.
+		qbrDuty = false, -- Checks if players are on duty when u are using QBRCore Framework without Syn Society.
 	},
 	{
 		jobid = "3", -- MUST BE IN ORDER FROM 1 TO X
@@ -37,6 +41,8 @@ Config.Jobs = {
 		count = 0, -- Dont Edit
 		maxdisplay = 0, -- When there will be more users with this job it will show for example "3+". // Set to 0 if u want to show the whole number.
 		synSociety = false, -- Checks if players are on duty when u are using Syn Society Script.
+		rsgDuty = false, -- Checks if players are on duty when u are using RSG Framework without Syn Society.
+		qbrDuty = false, -- Checks if players are on duty when u are using QBRCore Framework without Syn Society.
 	},
 }
 
