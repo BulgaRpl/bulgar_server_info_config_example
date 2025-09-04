@@ -23,6 +23,8 @@ Config.Jobs = {
 		synSociety = false, -- Checks if players are on duty when u are using Syn Society Script.
 		rsgDuty = false, -- Checks if players are on duty when u are using RSG Framework without Syn Society.
 		qbrDuty = false, -- Checks if players are on duty when u are using QBRCore Framework without Syn Society.
+		vorp_police = false, -- Checks if players are on duty when u are using https://github.com/VORPCORE/vorp_police / VORP ONLY
+		vorp_medic = false, -- Checks if players are on duty when u are using https://github.com/VORPCORE/vorp_medic / VORP ONLY
 	},
 	{
 		jobid = "2", -- MUST BE IN ORDER FROM 1 TO X
@@ -33,6 +35,8 @@ Config.Jobs = {
 		synSociety = false, -- Checks if players are on duty when u are using Syn Society Script.
 		rsgDuty = false, -- Checks if players are on duty when u are using RSG Framework without Syn Society.
 		qbrDuty = false, -- Checks if players are on duty when u are using QBRCore Framework without Syn Society.
+		vorp_police = false, -- Checks if players are on duty when u are using https://github.com/VORPCORE/vorp_police / VORP ONLY
+		vorp_medic = false, -- Checks if players are on duty when u are using https://github.com/VORPCORE/vorp_medic / VORP ONLY
 	},
 	{
 		jobid = "3", -- MUST BE IN ORDER FROM 1 TO X
@@ -43,6 +47,8 @@ Config.Jobs = {
 		synSociety = false, -- Checks if players are on duty when u are using Syn Society Script.
 		rsgDuty = false, -- Checks if players are on duty when u are using RSG Framework without Syn Society.
 		qbrDuty = false, -- Checks if players are on duty when u are using QBRCore Framework without Syn Society.
+		vorp_police = false, -- Checks if players are on duty when u are using https://github.com/VORPCORE/vorp_police / VORP ONLY
+		vorp_medic = false, -- Checks if players are on duty when u are using https://github.com/VORPCORE/vorp_medic / VORP ONLY
 	},
 }
 
@@ -58,3 +64,4 @@ Config.Language = {
     [4] = {text = "Nick: ",},
     [5] = {text = "+",},
 }
+
